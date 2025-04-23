@@ -14,8 +14,13 @@ module.exports = {
     async execute(client, config, interaction) {
         const apply = config.APPLY[interaction.options.data[0].value];
         const embed = new EmbedBuilder()
-            .setTitle(`تقديم ${apply.NAME}`)
-            .setDescription(`**يرجى إختيار القسم أدناه للبدء في عملية التقديم.**`)
+            .setDescription(`** - تقديم الإدارة في سيرفر 𝐎𝐍  𝐃𝐈𝐀𝐌𝐎𝐍𝐃 𝐂𝐓𝐘💎 
+
+- اضغط على زر تقديم 1 و عبي نموذج 
+
+- ملاضحة يلزم تحط شعار و رابط سيرفر ببروفايلك حين يتم قبولك اذا تم قبولك أفتح https://discord.com/channels/1136207191863459882/1356027532654411837 
+
+- هديا بلملاين للإدارة رح نقبل كثير ناس لحق قدم **`)
             .setImage(apply.BANNER)
             .setColor('#3498db')
         const select = new StringSelectMenuBuilder()
