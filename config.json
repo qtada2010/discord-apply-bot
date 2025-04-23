@@ -1,21 +1,15 @@
 {
-  "TOKEN": "التوكن",
+  "TOKEN": "MTM2MjQzNDU3MTQwODM4MDA0Ng.GXtr49.4RyEiynop-bA2LlXo2WDz-wXJocZEiWRNDJNBo",
   "APPLY": {
     "GANGS": {
       "NAME": "القسم الاول",
-      "BANNER": "https://media.discordapp.net/attachments/918613591584825355/1181626902750953512/Screenshot_25.png?ex=6581becf&is=656f49cf&hm=448d954a729290387b0678392ba3528a8b18de46617cdd2f54b76083cf95f2f9&=&format=webp&quality=lossless&width=1044&height=675",
+      "BANNER": "https://media.discordapp.net/attachments/1345323230155767840/1363213921133006848/423_20250417230511-1.png?ex=6809d4a6&is=68088326&hm=6b25a1b373bcfd493372c21ee7fccff90e20cff12b18c8153f6fb5d0abd3fb92&=&format=webp&quality=lossless&width=1681&height=649",
       "DATA": [
         {
-          "name": "تقديم 1",
-          "emoji": "ايموجي",
-          "CHANNEL": "ايدي_الروم",
-          "role": "ايدي_الرتبة"
-        },
-        {
-          "name": "تقديم 2",
-          "emoji": "ايموجي",
-          "CHANNEL": "ايدي_الروم",
-          "role": "ايدي_الرتبة"
+          "name": "تقديم ادارة",
+          "emoji": "🛡️",
+          "CHANNEL": "1363865250067255586",
+          "role": "1352815360155451463"
         }
       ]
     },
